@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Ressourcendateien">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="src\Graphics">
+      <UniqueIdentifier>{8e54d22a-0a74-4ba1-9dae-de0aad187fd0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Window">
+      <UniqueIdentifier>{267688b9-600f-469c-99c6-3e5c14c10077}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Misc">
+      <UniqueIdentifier>{9ebb51b2-7c5e-4080-92d7-260a5628bff6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Scenes">
+      <UniqueIdentifier>{dee97611-25b0-4290-b831-baef989046fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Components">
+      <UniqueIdentifier>{731400df-dffe-47e4-bcb8-adaf44ca644c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\GameObject">
+      <UniqueIdentifier>{05813656-f3e2-4db1-82ef-b3913a6fe228}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Components\MeshRenderer">
+      <UniqueIdentifier>{a8646e11-7880-46db-ac63-207a160afd72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Test Instances">
+      <UniqueIdentifier>{73b66b02-68f2-411d-a888-395959a8405a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Test Instances\TestCube">
+      <UniqueIdentifier>{315d7645-5647-45c3-b88d-cd803dcfe830}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Test Instances\TestScene">
+      <UniqueIdentifier>{1fd82628-935b-4f44-9624-747e2f2bc22b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Test Instances\TestMaterial">
+      <UniqueIdentifier>{eded754f-10c2-466b-8cef-cf77f3cb43ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Fragments">
+      <UniqueIdentifier>{670d800f-4a78-48b6-89e9-9c21e360a43b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Fragments\Material">
+      <UniqueIdentifier>{f4e18289-0aed-4334-a010-7898383bba06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Fragments\Mesh">
+      <UniqueIdentifier>{119b7291-8227-46ea-b3b0-fa73f8f0f349}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Fragments\Shader">
+      <UniqueIdentifier>{d7a6b5e2-57e1-4250-b140-733b81f34a86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Fragments\Texture">
+      <UniqueIdentifier>{b9b11c69-c64e-4218-9d16-48fba51592fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\Fragments\Camera">
+      <UniqueIdentifier>{7e0329b0-e20f-4d00-b943-90571d1597e8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Graphics.cpp">
+      <Filter>src\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="Window.cpp">
+      <Filter>src\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader.cpp">
+      <Filter>src\Fragments\Shader</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh.cpp">
+      <Filter>src\Fragments\Mesh</Filter>
+    </ClCompile>
+    <ClCompile Include="S_TestScene.cpp">
+      <Filter>Test Instances\TestScene</Filter>
+    </ClCompile>
+    <ClCompile Include="GO_TestCube.cpp">
+      <Filter>Test Instances\TestCube</Filter>
+    </ClCompile>
+    <ClCompile Include="Material.cpp">
+      <Filter>src\Fragments\Material</Filter>
+    </ClCompile>
+    <ClCompile Include="C_MeshRenderer.cpp">
+      <Filter>src\Components\MeshRenderer</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>src\Fragments\Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>src\Fragments\Camera</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Graphics.h">
+      <Filter>src\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="Window.h">
+      <Filter>src\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="ErrorHandler.h">
+      <Filter>src\Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="IScene.h">
+      <Filter>src\Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="IGameObject.h">
+      <Filter>src\GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader.h">
+      <Filter>src\Fragments\Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh.h">
+      <Filter>src\Fragments\Mesh</Filter>
+    </ClInclude>
+    <ClInclude Include="IComponent.h">
+      <Filter>src\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="S_TestScene.h">
+      <Filter>Test Instances\TestScene</Filter>
+    </ClInclude>
+    <ClInclude Include="GO_TestCube.h">
+      <Filter>Test Instances\TestCube</Filter>
+    </ClInclude>
+    <ClInclude Include="Material.h">
+      <Filter>src\Fragments\Material</Filter>
+    </ClInclude>
+    <ClInclude Include="C_MeshRenderer.h">
+      <Filter>src\Components\MeshRenderer</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>src\Fragments\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>src\Fragments\Camera</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="DX11Day1.1.rc">
+      <Filter>Ressourcendateien</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Shader.hlsl">
+      <Filter>Ressourcendateien</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\tidus.tga">
+      <Filter>Ressourcendateien</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

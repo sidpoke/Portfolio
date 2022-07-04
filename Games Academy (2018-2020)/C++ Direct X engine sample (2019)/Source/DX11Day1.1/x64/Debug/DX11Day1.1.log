@@ -1,0 +1,25 @@
+﻿  Camera.cpp
+  C_MeshRenderer.cpp
+D:\Git\Portfolio\C++ Direct X engine sample (2019)\Source\DX11Day1.1\Mesh.h(45,1): warning C4267: "return": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+D:\Git\Portfolio\C++ Direct X engine sample (2019)\Source\DX11Day1.1\Mesh.h(53,1): warning C4267: "return": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+  GO_TestCube.cpp
+D:\Git\Portfolio\C++ Direct X engine sample (2019)\Source\DX11Day1.1\Mesh.h(45,1): warning C4267: "return": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+D:\Git\Portfolio\C++ Direct X engine sample (2019)\Source\DX11Day1.1\Mesh.h(53,1): warning C4267: "return": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+  Graphics.cpp
+  main.cpp
+D:\Git\Portfolio\C++ Direct X engine sample (2019)\Source\DX11Day1.1\Mesh.h(45,1): warning C4267: "return": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+D:\Git\Portfolio\C++ Direct X engine sample (2019)\Source\DX11Day1.1\Mesh.h(53,1): warning C4267: "return": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+D:\Git\Portfolio\C++ Direct X engine sample (2019)\Source\DX11Day1.1\main.cpp(56,12): warning C4244: "return": Konvertierung von "WPARAM" in "int", möglicher Datenverlust
+  Material.cpp
+  Mesh.cpp
+D:\Git\Portfolio\C++ Direct X engine sample (2019)\Source\DX11Day1.1\Mesh.h(45,1): warning C4267: "return": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+D:\Git\Portfolio\C++ Direct X engine sample (2019)\Source\DX11Day1.1\Mesh.h(53,1): warning C4267: "return": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+  Shader.cpp
+D:\Git\Portfolio\C++ Direct X engine sample (2019)\Source\DX11Day1.1\Shader.cpp(23,14): warning C4244: "Initialisierung": Konvertierung von "std::streamoff" in "int", möglicher Datenverlust
+  S_TestScene.cpp
+D:\Git\Portfolio\C++ Direct X engine sample (2019)\Source\DX11Day1.1\Mesh.h(45,1): warning C4267: "return": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+D:\Git\Portfolio\C++ Direct X engine sample (2019)\Source\DX11Day1.1\Mesh.h(53,1): warning C4267: "return": Konvertierung von "size_t" nach "unsigned int", Datenverlust möglich
+  Texture.cpp
+  Window.cpp
+  Code wird generiert...
+  DX11Day1.1.vcxproj -> D:\Git\Portfolio\C++ Direct X engine sample (2019)\Source\x64\Debug\DX11Day1.1.exe

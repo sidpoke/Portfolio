@@ -1,0 +1,50 @@
+C:\Users\Jonas Walter\source\repos\ClientServer\EFRepository\obj\Debug\EFRepository.csproj.AssemblyReference.cache
+C:\Users\Jonas Walter\source\repos\ClientServer\EFRepository\obj\Debug\Server.Migrations.CreateGameDBContext.resources
+C:\Users\Jonas Walter\source\repos\ClientServer\EFRepository\obj\Debug\EFRepository.csproj.GenerateResource.cache
+C:\Users\Jonas Walter\source\repos\ClientServer\EFRepository\obj\Debug\EFRepository.csproj.CoreCompileInputs.cache
+C:\Users\Jonas Walter\source\repos\ClientServer\EFRepository\bin\Debug\EFRepository.dll.config
+C:\Users\Jonas Walter\source\repos\ClientServer\EFRepository\bin\Debug\EFRepository.dll
+C:\Users\Jonas Walter\source\repos\ClientServer\EFRepository\bin\Debug\EFRepository.pdb
+C:\Users\Jonas Walter\source\repos\ClientServer\EFRepository\bin\Debug\EntityFramework.dll
+C:\Users\Jonas Walter\source\repos\ClientServer\EFRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jonas Walter\source\repos\ClientServer\EFRepository\bin\Debug\Repository.dll
+C:\Users\Jonas Walter\source\repos\ClientServer\EFRepository\bin\Debug\Repository.pdb
+C:\Users\Jonas Walter\source\repos\ClientServer\EFRepository\bin\Debug\Repository.dll.config
+C:\Users\Jonas Walter\source\repos\ClientServer\EFRepository\bin\Debug\EntityFramework.xml
+C:\Users\Jonas Walter\source\repos\ClientServer\EFRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jonas Walter\source\repos\ClientServer\EFRepository\obj\Debug\EFRepository.dll
+C:\Users\Jonas Walter\source\repos\ClientServer\EFRepository\obj\Debug\EFRepository.pdb
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\EFRepository\bin\Debug\EFRepository.dll.config
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\EFRepository\bin\Debug\EFRepository.dll
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\EFRepository\bin\Debug\EFRepository.pdb
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\EFRepository\bin\Debug\EntityFramework.dll
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\EFRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\EFRepository\bin\Debug\Repository.dll
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\EFRepository\bin\Debug\Repository.pdb
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\EFRepository\bin\Debug\Repository.dll.config
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\EFRepository\bin\Debug\EntityFramework.xml
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\EFRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\EFRepository\obj\Debug\EFRepository.csproj.AssemblyReference.cache
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\EFRepository\obj\Debug\Server.Migrations.CreateGameDBContext.resources
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\EFRepository\obj\Debug\EFRepository.csproj.GenerateResource.cache
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\EFRepository\obj\Debug\EFRepository.csproj.CoreCompileInputs.cache
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\EFRepository\obj\Debug\EFRepository.csproj.CopyComplete
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\EFRepository\obj\Debug\EFRepository.dll
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\EFRepository\obj\Debug\EFRepository.pdb
+D:\Git\Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework + Respository Pattern (2021)\EFRepository\bin\Debug\EFRepository.dll.config
+D:\Git\Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework + Respository Pattern (2021)\EFRepository\bin\Debug\EFRepository.dll
+D:\Git\Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework + Respository Pattern (2021)\EFRepository\bin\Debug\EFRepository.pdb
+D:\Git\Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework + Respository Pattern (2021)\EFRepository\bin\Debug\EntityFramework.dll
+D:\Git\Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework + Respository Pattern (2021)\EFRepository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Git\Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework + Respository Pattern (2021)\EFRepository\bin\Debug\Repository.dll
+D:\Git\Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework + Respository Pattern (2021)\EFRepository\bin\Debug\Repository.pdb
+D:\Git\Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework + Respository Pattern (2021)\EFRepository\bin\Debug\Repository.dll.config
+D:\Git\Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework + Respository Pattern (2021)\EFRepository\bin\Debug\EntityFramework.xml
+D:\Git\Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework + Respository Pattern (2021)\EFRepository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Git\Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework + Respository Pattern (2021)\EFRepository\obj\Debug\EFRepository.csproj.AssemblyReference.cache
+D:\Git\Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework + Respository Pattern (2021)\EFRepository\obj\Debug\Server.Migrations.CreateGameDBContext.resources
+D:\Git\Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework + Respository Pattern (2021)\EFRepository\obj\Debug\EFRepository.csproj.GenerateResource.cache
+D:\Git\Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework + Respository Pattern (2021)\EFRepository\obj\Debug\EFRepository.csproj.CoreCompileInputs.cache
+D:\Git\Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework + Respository Pattern (2021)\EFRepository\obj\Debug\EFRepository.csproj.CopyComplete
+D:\Git\Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework + Respository Pattern (2021)\EFRepository\obj\Debug\EFRepository.dll
+D:\Git\Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework + Respository Pattern (2021)\EFRepository\obj\Debug\EFRepository.pdb

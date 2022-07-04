@@ -1,0 +1,36 @@
+C:\Users\Jonas Walter\source\repos\ClientServer\ClientServer\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Jonas Walter\source\repos\ClientServer\ClientServer\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Jonas Walter\source\repos\ClientServer\ClientServer\bin\Debug\ClientServer.exe.config
+C:\Users\Jonas Walter\source\repos\ClientServer\ClientServer\bin\Debug\ClientServer.exe
+C:\Users\Jonas Walter\source\repos\ClientServer\ClientServer\bin\Debug\ClientServer.pdb
+C:\Users\Jonas Walter\source\repos\ClientServer\ClientServer\bin\Debug\Common.dll
+C:\Users\Jonas Walter\source\repos\ClientServer\ClientServer\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Jonas Walter\source\repos\ClientServer\ClientServer\bin\Debug\Common.pdb
+C:\Users\Jonas Walter\source\repos\ClientServer\ClientServer\obj\Debug\ClientServer.exe
+C:\Users\Jonas Walter\source\repos\ClientServer\ClientServer\obj\Debug\ClientServer.pdb
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\ClientServer\bin\Debug\ClientServer.exe.config
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\ClientServer\bin\Debug\ClientServer.exe
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\ClientServer\bin\Debug\ClientServer.pdb
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\ClientServer\bin\Debug\Common.dll
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\ClientServer\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\ClientServer\bin\Debug\Common.pdb
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\ClientServer\bin\Debug\de\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\ClientServer\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\ClientServer\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\ClientServer\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\ClientServer\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\ClientServer\obj\Debug\ClientServer.exe
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\ClientServer\obj\Debug\ClientServer.pdb
+D:\Git\Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework + Respository Pattern (2021)\ClientServer\bin\Debug\ClientServer.exe.config
+D:\Git\Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework + Respository Pattern (2021)\ClientServer\bin\Debug\ClientServer.exe
+D:\Git\Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework + Respository Pattern (2021)\ClientServer\bin\Debug\ClientServer.pdb
+D:\Git\Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework + Respository Pattern (2021)\ClientServer\bin\Debug\Common.dll
+D:\Git\Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework + Respository Pattern (2021)\ClientServer\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Git\Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework + Respository Pattern (2021)\ClientServer\bin\Debug\Common.pdb
+D:\Git\Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework + Respository Pattern (2021)\ClientServer\bin\Debug\de\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Git\Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework + Respository Pattern (2021)\ClientServer\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\Git\Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework + Respository Pattern (2021)\ClientServer\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+D:\Git\Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework + Respository Pattern (2021)\ClientServer\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Git\Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework + Respository Pattern (2021)\ClientServer\obj\Debug\Client.csproj.CopyComplete
+D:\Git\Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework + Respository Pattern (2021)\ClientServer\obj\Debug\ClientServer.exe
+D:\Git\Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework + Respository Pattern (2021)\ClientServer\obj\Debug\ClientServer.pdb
