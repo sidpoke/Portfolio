@@ -8,7 +8,7 @@ This repo contains Code written in C#, C++, .zip files with various game builds,
 <h2>About me</h2>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/49310996/177117500-a005a8b1-4ced-45f1-8cfc-9e62ef4f327d.png">
-My name is Jonas, i am a game developer from Frankfurt and i'm a certified game programmer and scrum master (PSM-1).
+My name is Jonas, i and i'm a certified game programmer and scrum master (PSM-1) from Frankfurt.
 <br/>
 I've been programming since 2011 and first started making games in 2014 using Unity.  
 <br/>
