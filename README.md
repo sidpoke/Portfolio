@@ -84,7 +84,7 @@ The project had to be abandoned because of personal time restraints and a genera
 <img src="https://user-images.githubusercontent.com/49310996/177116697-f58e3c9e-1386-4962-8cb9-6c53e0d40969.png">
 
 <h2>Ke|ros (2016-2017) - Included</h2>
-I often just called it my "Ninja Cat Game". It was one of my older passion projects that got me into GamesAcademy.  
+I often just called it my "Ninja Cat Game". It was one of my older unfinished passion projects that i used to get into GamesAcademy.  
 The soundtrack is one of my favorite works, the game feels a little wonky but it worked decently. Every asset was also made by myself but i've lost most of the source code.
 <h3>Screenshots</h3>
 <img src="https://user-images.githubusercontent.com/49310996/177118341-804159e9-a257-4e6b-9016-2ea841869400.gif">
