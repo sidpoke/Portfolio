@@ -25,10 +25,10 @@ So far this is one of my favorite projects ever, make sure to check it out!
 For more info, go to https://sidpoke.itch.io/RabbeauxKnight  
 
 # C++ Direct X Engine (2019) - Included
-As part of an assignment during GamesAcademy, i had to create my own small Direct X engine in C++
-Task of this assignment was simply generating a cube and adding shading & texture onto it.
+As part of an assignment during GamesAcademy, i had to create my own small Direct X engine in C++<br/>
+Task of this assignment was simply generating a cube and adding shading & texture onto it.<br/>
 
-I've went past the expectations and delivered an engine which would render a whole Mesh (e.g. the famous Utah Teapot)
+I've went past the expectations and delivered an engine which would render a whole Mesh (e.g. the famous Utah Teapot)<br/>
 This object would spin and have a basic diffuse light to it.
 
 <h3>To simply run, open the "Build" folder and run "DX_Build.exe" or open the VS Solution in the "Source" folder.</h3>
@@ -38,8 +38,8 @@ This object would spin and have a basic diffuse light to it.
 # C++ Container, Dynamic Array (2020) - Included
 A simple self-written C++ dynamic array. This was part of a GamesAcademy task.
 
-main.cpp - Has test functions for this dynamic array.
-DynamicArray.h - Header file for all basic array functions
+main.cpp - Has test functions for this dynamic array.<br/>
+DynamicArray.h - Header file for all basic array functions<br/>
 DynamicArray.inl - In-Line file which defines the basic operations for the dynamic arrray
 
 # GamesAcademy Semester Projects (2018-2020)
