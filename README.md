@@ -101,7 +101,7 @@ This script is used for a parallax scrolling background in 2D games.
 A script that rotates an object like it's pendling, for example a light source.
 
 <h2>WPF + EntityFramework + Repository Pattern (2021)</h2>
-This project is part of an assignment for GamesAcademy which required me to send over data through WPF from a client to a server.  
+This project is part of an assignment for GamesAcademy which required me to send over data through WCF from a client to a server.  
 The server then proceeded to store the data on an SQL-Database, which uses procedures to call back certain values from events.
 <h3>Screenshots</h3>
 <img src="https://user-images.githubusercontent.com/49310996/177123500-3d7dd7f6-570a-47e1-9d35-4ff8c70014c0.png">
