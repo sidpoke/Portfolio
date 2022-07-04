@@ -1,0 +1,17 @@
+C:\Users\Jonas Walter\source\repos\ClientServer\Common\bin\Debug\Common.dll
+C:\Users\Jonas Walter\source\repos\ClientServer\Common\bin\Debug\Common.pdb
+C:\Users\Jonas Walter\source\repos\ClientServer\Common\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Jonas Walter\source\repos\ClientServer\Common\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\Jonas Walter\source\repos\ClientServer\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Jonas Walter\source\repos\ClientServer\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Jonas Walter\source\repos\ClientServer\Common\obj\Debug\Common.dll
+C:\Users\Jonas Walter\source\repos\ClientServer\Common\obj\Debug\Common.pdb
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\Common\bin\Debug\Common.dll
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\Common\bin\Debug\Common.pdb
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\Common\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\Common\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\Common\obj\Debug\Common.dll
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\Common\obj\Debug\Common.pdb
