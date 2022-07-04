@@ -1,0 +1,49 @@
+C:\Users\Jonas Walter\source\repos\ClientServer\Server\bin\Debug\Server.exe.config
+C:\Users\Jonas Walter\source\repos\ClientServer\Server\bin\Debug\Server.exe
+C:\Users\Jonas Walter\source\repos\ClientServer\Server\bin\Debug\Server.pdb
+C:\Users\Jonas Walter\source\repos\ClientServer\Server\bin\Debug\EntityFramework.dll
+C:\Users\Jonas Walter\source\repos\ClientServer\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jonas Walter\source\repos\ClientServer\Server\bin\Debug\System.ServiceModel.Http.dll
+C:\Users\Jonas Walter\source\repos\ClientServer\Server\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Jonas Walter\source\repos\ClientServer\Server\bin\Debug\EntityFramework.xml
+C:\Users\Jonas Walter\source\repos\ClientServer\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jonas Walter\source\repos\ClientServer\Server\bin\Debug\System.ServiceModel.Http.pdb
+C:\Users\Jonas Walter\source\repos\ClientServer\Server\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\Jonas Walter\source\repos\ClientServer\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Jonas Walter\source\repos\ClientServer\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Jonas Walter\source\repos\ClientServer\Server\obj\Debug\Server.exe
+C:\Users\Jonas Walter\source\repos\ClientServer\Server\obj\Debug\Server.pdb
+C:\Users\Jonas Walter\source\repos\ClientServer\Server\bin\Debug\Common.dll
+C:\Users\Jonas Walter\source\repos\ClientServer\Server\bin\Debug\EFRepository.dll
+C:\Users\Jonas Walter\source\repos\ClientServer\Server\bin\Debug\Repository.dll
+C:\Users\Jonas Walter\source\repos\ClientServer\Server\bin\Debug\Common.pdb
+C:\Users\Jonas Walter\source\repos\ClientServer\Server\bin\Debug\EFRepository.pdb
+C:\Users\Jonas Walter\source\repos\ClientServer\Server\bin\Debug\EFRepository.dll.config
+C:\Users\Jonas Walter\source\repos\ClientServer\Server\bin\Debug\Repository.pdb
+C:\Users\Jonas Walter\source\repos\ClientServer\Server\bin\Debug\Repository.dll.config
+C:\Users\Jonas Walter\source\repos\ClientServer\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\Server\bin\Debug\Server.exe.config
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\Server\bin\Debug\Server.exe
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\Server\bin\Debug\Server.pdb
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\Server\bin\Debug\Common.dll
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\Server\bin\Debug\EFRepository.dll
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\Server\bin\Debug\EntityFramework.dll
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\Server\bin\Debug\Repository.dll
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\Server\bin\Debug\System.ServiceModel.Http.dll
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\Server\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\Server\bin\Debug\Common.pdb
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\Server\bin\Debug\EFRepository.pdb
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\Server\bin\Debug\EFRepository.dll.config
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\Server\bin\Debug\Repository.pdb
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\Server\bin\Debug\Repository.dll.config
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\Server\bin\Debug\EntityFramework.xml
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\Server\bin\Debug\System.ServiceModel.Http.pdb
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\Server\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\Server\obj\Debug\Server.exe
+C:\Users\Jonas Walter\Desktop\Wichtig\CID Bewerbung\Walter Portfolio\C# Coding Samples (2017-2021)\WCF + Entity Framework +Respository Pattern (2021)\ClientServer\Server\obj\Debug\Server.pdb
