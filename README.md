@@ -74,10 +74,11 @@ I took care of the programming, which worked i guess, the game design just didn'
 
 # Projects i worked on before Games Academy
 <h2>Sounds of War (2016-2018) - Not included</h2>
-One of the major projects i've worked on is the Unity game "Sounds of War" (earlier "Soul of War")
-A YouTube channel with showcases here:
+One of the major projects i've worked on is the Unity game "Sounds of War" (earlier "Soul of War")  
+<br/>
+Here's a YouTube channel with showcases:
 https://www.youtube.com/channel/UCAPnQokKL_L2rZyfpjCzTBg/videos
-
+<br/>
 The project had to be abandoned because of personal time restraints and a general lack of budget.  
 <h3>Screenshots</3>
 <img src="https://user-images.githubusercontent.com/49310996/177116697-f58e3c9e-1386-4962-8cb9-6c53e0d40969.png">
