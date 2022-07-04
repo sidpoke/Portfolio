@@ -100,7 +100,7 @@ This script is used for a parallax scrolling background in 2D games.
 <h3>PendleLight.cs</h3>
 A script that rotates an object like it's pendling, for example a light source.
 
-<h2>WPF + EntityFramework + Repository Pattern (2021)</h2>
+<h2>WCF + EntityFramework + Repository Pattern (2021)</h2>
 This project is part of an assignment for GamesAcademy which required me to send over data through WCF from a client to a server.  
 The server then proceeded to store the data on an SQL-Database, which uses procedures to call back certain values.
 <h3>Screenshots</h3>
