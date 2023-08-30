@@ -12,7 +12,7 @@ My name is Jonas, i and i'm a certified game programmer and scrum master (PSM-1)
 <br/>
 I've been programming since 2011 and first started making games in 2014 using Unity.  
 <br/>
-I've also been developing .NET and WPF applications, although i'm not allowed to share these.  
+I've also been developing Apps using .Net and Vue.js as a Full Stack Developer.
 </p>
 
 # Rabbeaux Knight (2022) - Included
