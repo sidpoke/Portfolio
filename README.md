@@ -12,8 +12,15 @@ My name is Jonas, i and i'm a certified game programmer and scrum master (PSM-1)
 <br/>
 I've been programming since 2011 and first started making games in 2014 using Unity.  
 <br/>
-I've also been developing Apps using .Net and Vue.js as a Full Stack Developer.
+I've also been developing Apps using C# .Net and Vue.js as a Full Stack Developer.
 </p>
+
+# Yippie - An Electron.js app that shoots confetti on your screen
+Although a little silly, i made funny little joke app within Node.js and Electron that shoots confetti as you type or click.
+
+Link to repo [here](https://github.com/sidpoke/Yippie).
+
+A video presentation is [here](https://www.youtube.com/watch?v=eJ9vKdwRgxs).
 
 # Rabbeaux Knight (2022) - Included
 As part of a replacement GamesAcademy semester solo project i've created this neat Multiplayer-Arena game in the span of <b>four weeks</b>. Every asset of this game is made by me except for the music & sounds, particle effects and item sprites.  
