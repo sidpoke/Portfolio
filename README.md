@@ -28,8 +28,9 @@ As part of a replacement GamesAcademy semester solo project i've created this ne
 You can play it online with your friends, it has a lobby system and the gameplay is incredibly fun.  
 So far this is one of my favorite projects ever, make sure to check it out!  
 <br/>
-<img src="https://img.itch.zone/aW1hZ2UvMTQwMDc5Ni84MTYzNDg3LnBuZw==/original/bmzkHs.png"/>  
 For more info, go to https://sidpoke.itch.io/RabbeauxKnight  
+<br/>
+<img src="https://img.itch.zone/aW1hZ2UvMTQwMDc5Ni84MTYzNDg3LnBuZw==/original/bmzkHs.png"/>  
 
 # C++ Direct X Engine (2019) - Included
 As part of an assignment during GamesAcademy, i had to create my own small Direct X engine in C++<br/>
