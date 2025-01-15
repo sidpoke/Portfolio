@@ -78,9 +78,9 @@ public enum Triggers
 // Define a fsm (Finite State Machine) with the States and Triggers, and CoolState as the initial state.
 StateMachine fsm = new StateMachine<States, Triggers>(CoolState);
 
-fsm.Configure(MyStateEnum.CoolState)
-    .Permit(Triggers.CoolTrigger, MyStateEnum)
-    .Ignore(Triggers.IgnoredTrigger)
+fsm.Configure(States.CoolState)
+    .Permit(Triggers.CoolTrigger, States.OtherCoolState) // Transitional trigger to new state
+    .Ignore(Triggers.IgnoredTrigger) // Ignored trigger
     .OnEntry(() => 
     {
         // Actions to perform on entry.
@@ -90,7 +90,7 @@ fsm.Configure(MyStateEnum.CoolState)
         // Actions to perform on exit.
     });
 
-// Fires a trigger to 
+// Firing a trigger to cause a transition. The fsm is now in OtherCoolState"
 fsm.Fire(Triggers.CoolTrigger);
 ```
 
