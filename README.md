@@ -1,22 +1,26 @@
 # Welcome to my Portfolio!
+> Please keep in mind that this portfolio is slightly outdated (2024), and very game dev focused.\
+> These are mostly my hobby projects and what i'm allowed to share, since my full-stack projects are mostly under NDA.
+
 <p align="center">
 This GitHub page is specifically made with the intent to showcase my coding skills to the outside world.<br/>
-Here you can find various projects i've worked on over the years that I am allowed to share!<br/>
-This repo contains code written in C# and C++, .zip files with various game builds, images, videos, sound files, etc.
+Here you can find hobby projects i've worked on over the years that I am allowed to share!<br/>
+This repo contains code written in C#, JavaScript and C++, .zip files with various game builds, images, videos, sound files, etc.
 </p>
 
 ## About me
 ![Portfolio banner](https://user-images.githubusercontent.com/49310996/177117500-a005a8b1-4ced-45f1-8cfc-9e62ef4f327d.png)
 <p align="center">
-<b>My name is Jonas, I'm an industry game programmer, scrum master & Full-Stack developer near Frankfurt.</b><br/>
-Around 2011 I was fascinated by operating systems, and using <a href="https://www.gocosmos.org/">COSMOS</a> I wrote my own OS in C# at age 12.<br/>
-When I got to know Unity Engine at Version 3 in 2014, I instantly knew that this would become my future job.<br/>
-I successfully completed my certificate at GamesAcademy Frankfurt and worked for various organizations.<br/>
-Next to Unity, I'm a hobby artist and frequently use tools like Blender, Clip Studio, Premiere Pro & After Effects.<br/>
-<b>Colleagues within the game industry consider me a reliable partner in game development. Will you be my next?</b><br/>
+<b>My name is Jonas, I'm a Full-Stack Developer, scrum master & industry game programmer near Frankfurt.</b><br/>
+Around 2011 I was fascinated by operating systems, and using <a href="https://www.gocosmos.org/">COSMOS</a> I wrote my own "OS" in C# at age 12.<br/>
+When I got to know Unity Engine at Version 3 in 2014, I was enamoured by 3D Game & Software Development.<br/>
+I successfully completed a certificate at a private school in Frankfurt and worked for various companies as a Full-Stack Developer.<br/>
+By now i create cross-platform applications in .NET, Angular and Vue, including 3D Software for Businesses and Consumers in Unity.<br/>
+Next to Game Dev, I'm a hobby artist and frequently use tools like Blender, Clip Studio, Premiere Pro & After Effects.<br/>
+<b>Colleagues within the industry consider me a reliable partner in software development. Will you be my next partner?</b><br/>
 </p>
 
-# Highlighted & Recent Projects
+# Highlighted & Recent Game Projects
 
 ## Parking World: Build & Manage
 Parking World is a game made by [Binary Impact GmbH](https://binaryimpact.de) 
@@ -56,6 +60,7 @@ So far this is one of my favorite projects, [make sure to check it out!](https:/
 
 ![Rabbeaux Knight screenshot](https://img.itch.zone/aW1hZ2UvMTQwMDc5Ni84MTYzNDg4LnBuZw==/original/%2BWqjYt.png)
 
+# C# Related
 ## Stateless State Machinery
 Finite State Machines are often a hassle to write manually and a generic implementation is oftentimes helpful.\
 This included FSM class allows you to configure states and their triggers with no specific state behavior.\
@@ -109,6 +114,7 @@ Recommended usage is the creation of a scene lifecycle script that registers and
     _myCoolSystem = Services.Get<MyCoolSystem>(); // now has a reference to the service
 ```
 
+# Node shenanigans
 ## Yippie - an Electron.js app that shoots confetti as you type
 This is one of my silly projects written in JavaScript & Node.js\
 Yippie runs in the background and shoots confetti when you type or click anywhere.\
