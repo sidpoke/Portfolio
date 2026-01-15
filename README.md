@@ -153,7 +153,7 @@ I took care of the programming, however game design and art direction turned thi
 
 ![Screenshot Rise of the Beetles](https://user-images.githubusercontent.com/49310996/177113007-869c5912-31b2-4f36-964f-a33d67073819.png)
 
-# WPF + EntityFramework + Repository Pattern (2021)
+# WCF + EntityFramework + Repository Pattern (2021)
 This project is part of an assignment for GamesAcademy which required me to send over data through WPF from a client to a server.  
 The server then proceeded to store the data on an SQL-Database, which uses procedures to call back certain values from events.
 Screenshots
