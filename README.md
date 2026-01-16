@@ -9,7 +9,8 @@ This repo contains code written in C#, JavaScript and C++, .zip files with vario
 </p>
 
 ## About me
-![Portfolio banner](https://user-images.githubusercontent.com/49310996/177117500-a005a8b1-4ced-45f1-8cfc-9e62ef4f327d.png)
+![Portfolio banner](https://github.com/user-attachments/assets/f2a606c7-0a1b-4c77-ad17-12cc2485e872)
+
 <p align="center">
 <b>My name is Jonas, I'm a Full-Stack Developer, scrum master & industry game programmer near Frankfurt.</b><br/>
 Around 2011 I was fascinated by operating systems, and using <a href="https://www.gocosmos.org/">COSMOS</a> I wrote my own "OS" in C# at age 12.<br/>
